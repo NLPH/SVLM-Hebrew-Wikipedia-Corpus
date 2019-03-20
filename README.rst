@@ -4,14 +4,16 @@ The SVLM Hebrew Wikipedia Courpus
 
 The SVLM Hebrew Wikipedia Courpus is a corpus made up of 50,000 Hebrew sentences from the Hebrew Wikipedia.
 
-The corpus was built by Dr. Vered Silber-Varod and Prof. Ami Moyal as part of their work on [Varod17].
+The corpus was built by Dr. Vered Silber-Varod and Prof. Ami Moyal as part of their work on `[Varod17]`_.
 
 Links
 =====
 
-Corpus:  https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/SVLM_Hebrew_Wikipedia_Corpus.txt
+Corpus:
+https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/SVLM_Hebrew_Wikipedia_Corpus.txt
 
-Paper:  https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/Phonemes_freqency_Silber-Varod-Latin-Moyal.pdf
+Paper:
+https://github.com/NLPH/SVLM-Hebrew-Wikipedia-Corpus/blob/master/Phonemes_freqency_Silber-Varod-Latin-Moyal.pdf
 
 
 License
