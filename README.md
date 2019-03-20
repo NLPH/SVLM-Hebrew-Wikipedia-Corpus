@@ -1,1 +1,0 @@
-# SVLM-Hebrew-Wikipedia-Courpus
